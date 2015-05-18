@@ -1,0 +1,6 @@
+D:\101193\LopExample\LopExample\bin\Debug\LopExample.exe.config
+D:\101193\LopExample\LopExample\bin\Debug\LopExample.exe
+D:\101193\LopExample\LopExample\bin\Debug\LopExample.pdb
+D:\101193\LopExample\LopExample\obj\Debug\LopExample.csprojResolveAssemblyReference.cache
+D:\101193\LopExample\LopExample\obj\Debug\LopExample.exe
+D:\101193\LopExample\LopExample\obj\Debug\LopExample.pdb
